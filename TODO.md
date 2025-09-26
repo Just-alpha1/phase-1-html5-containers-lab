@@ -1,0 +1,16 @@
+- [x] Replace header div with <header>
+- [x] Replace nav span with <nav>
+- [x] Replace main div with <main>
+- [x] Replace first section div with <section>
+- [x] Replace figure div with <figure>
+- [x] Replace figcaption span with <figcaption>
+- [x] Replace article div with <article>
+- [x] Replace second section div with <section>
+- [x] Replace video figure div with <figure>
+- [x] Replace video figcaption span with <figcaption>
+- [x] Replace third section div with <section>
+- [ ] Replace footer div with <footer>
+- [ ] Replace address div with <address>
+- [ ] Replace details div with <details>
+- [ ] Replace summary span with <summary>
+- [ ] Run npm test to verify changes
